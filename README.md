@@ -37,12 +37,15 @@ When the model is executed, it first asks for the commodity name,
 ![380990517-afea55b1-f2b2-46a4-b7a1-bff70cfd36ab](https://github.com/user-attachments/assets/436f2a91-bb53-4ce0-87a6-951638bb504d)
 
 After we enter the commodity name, it displays the selected commodity and the features used to train the model.
+
 ![380990569-76750207-24f4-4761-a64c-685a359cddfd](https://github.com/user-attachments/assets/0c45d09a-c90c-4b6e-9c00-19ddf83ed90e)
 
 Then, it asks for the commodity, state, and date for prediction.
+
 ![380990610-2e4ad095-d2f4-48f5-aaf3-f174b5c40880](https://github.com/user-attachments/assets/8e5f7411-c329-45e0-9494-5d5ae7bc40f1)
 
 The Predicted price:
+
 ![380990650-ed786b55-a027-4a6f-8e02-90cc811c67f3](https://github.com/user-attachments/assets/959907f4-76f3-4cb9-be13-f0c4b4dd3b20)
 
 
@@ -59,7 +62,7 @@ https://power.larc.nasa.gov/data-access-viewer/​
 
 https://scikitlearn.org/dev/modules/generated/sklearn.ensemble.RandomForestRegressor.html​
 
-### Books:
+## Books:
 1.Raghavendra, B., & Rao, K. (2019). Data Science in Agriculture: Concepts, Tools, and Techniques. Springer.​
 
 2.Prasad, M. (2020). Machine Learning for Agricultural Price Prediction. Academic Press.
